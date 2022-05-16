@@ -2,7 +2,7 @@
 
 My name is Lucas Salvador from Brazil (brazil). I've been working as Back-End Developer since 2018 and currently I'm Back-End at [Hotmart](https://hotmart.com/). 
 
-In my free time I like to  watch F1 (car), to watch movies (film_strip) and series (tv), to read books (books), to listen to music (musical_note) and eventually I like to philosophize about life with a beer (beer).
+In my free time I like to  watch F1 🚗 , to watch movies 🎞️ and series 📺 , to read books 📚, to listen to music 🎵 and eventually I like to philosophize about life with a beer 🍻.
 
 
 ## Connect with me
